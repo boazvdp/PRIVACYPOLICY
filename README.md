@@ -1,6 +1,6 @@
 # Privacy Policy for FocusBubble
 
-*Last updated: March 15 2024*
+*Last updated: March 15 2025*
 
 ## Our Commitment to Privacy
 
@@ -77,4 +77,4 @@ You have the right to:
 - Contact us with privacy concerns
 
 ---
-© 2024 FocusBubble. All rights reserved. 
+© 2025 FocusBubble. All rights reserved. 
