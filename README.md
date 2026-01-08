@@ -77,4 +77,4 @@ You have the right to:
 - Contact us with privacy concerns
 
 ---
-© 2025 FocusBubble. All rights reserved. 
+© 2026 FocusBubble. All rights reserved. 
